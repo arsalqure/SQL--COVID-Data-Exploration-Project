@@ -1,4 +1,4 @@
-# SQL--COVID-Data-Exploration-Project
+
 
 # 🦠 COVID-19 Data Exploration with SQL
 
